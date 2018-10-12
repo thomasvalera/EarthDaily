@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  News
+
+  Created by Thomas Valera on 10/10/2018.
+  Copyright © 2018 Valion. All rights reserved.
+*/
+
+// OverviewController
+"OverviewController_title" = "Earth Daily";
+"OverviewController_loadingError" = "Oops\n\nThere was an error while loading the articles, try again!";
+"OverviewController_errorRetryButton_title" = "Retry";
+
+// ArticleDetailController
+"ArticleDetailController_buttonReadMore" = "Read more on %@"; // Replace %@ with source name of the article
+
+// ArticleDetailNavigator
+"ArticleDetailNavigator_alert_premiumUpdateTitle" = "Did you know?";
+"ArticleDetailNavigator_alert_premiumUpdateMessage" = "Chuck Norris counted to infinity - twice. #FunFact";
+"ArticleDetailNavigator_alert_premiumUpdateButtonClose" = "Close this stupid ad";
